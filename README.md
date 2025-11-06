@@ -73,7 +73,7 @@ docker compose exec app python app.py query --q "project start date"
 
 ---
 
-## 🔁 Reset (Clean Re-Run)
+## Reset (Clean Re-Run)
 Removes all files under `artifacts/` and `outputs/` for a clean rerun.
 
 ```bash
