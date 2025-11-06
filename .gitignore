@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+# Local env/key files
+.env
+
+# Generated output 
+artifacts/
+outputs/
+
+# IDE folders
+.idea/
+.vscode/
+
+# Test cache
+.pytest_cache/

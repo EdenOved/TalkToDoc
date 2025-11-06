@@ -1,0 +1,13 @@
+openai>=1.42.0,<2.4
+typer>=0.12.3
+pydantic>=2.7.0
+pandas>=2.2.2
+openpyxl>=3.1.2
+PyMuPDF>=1.24.7
+scikit-learn>=1.4.2
+tqdm>=4.66.4
+python-dotenv>=1.0.1
+pytest>=8.2.0
+psycopg2-binary>=2.9
+joblib>=1.4
+
